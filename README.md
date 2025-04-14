@@ -57,17 +57,6 @@
   
 </div>
 
-## 🚀 Projetos em Destaque
-
-<div align="center">
-  <a href="https://github.com/SEU_USERNAME/projeto1">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SEU_USERNAME&repo=projeto1&theme=vue" />
-  </a>
-  <a href="https://github.com/SEU_USERNAME/projeto2">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SEU_USERNAME&repo=projeto2&theme=vue" />
-  </a>
-</div>
-
 ## 🌐 Idiomas
 <div align="center">
   
