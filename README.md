@@ -1,6 +1,6 @@
-# Olá, mundo! 👋 Eu sou [Seu Nome]
+# Olá, mundo! 👋 Eu sou o Josué Rufino
 
-## 👩‍💻 Desenvolvedora Fullstack apaixonada por tecnologia
+## 👩‍💻 Desenvolvedor FrontEnd apaixonado por tecnologia
 🎓 Formação em [Sua Formação]
 📚 [Outras informações educacionais]
 
